@@ -198,7 +198,7 @@
              (commit version)))
        (file-name (git-file-name "cl-njson" version))
        (sha256
-        (base32 "1f7s9g5s9riyyrbj8lyvzlvymdbh9x9sknxmjzfrkbz3iqlpanc3"))))
+        (base32 "0lv3q1841s4avii1jp89r91jq21sids2ycpy2id0kzhrljzhmy6j"))))
     (build-system asdf-build-system/sbcl)
     (inputs
      (list sbcl-cl-json))
