@@ -240,7 +240,7 @@ mimicking Lisp ones, while using truth values of JSON-decoded data.
 (define-public sbcl-nactivitypub
   (package
     (name "sbcl-nactivitypub")
-    (version "0.1.0")
+    (version "0.0.1")
     (source
      (origin
        (method git-fetch)
